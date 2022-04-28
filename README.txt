@@ -1,0 +1,1 @@
+Tinh ma tran rat lon su dung co che multi threading
